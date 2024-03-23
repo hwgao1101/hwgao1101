@@ -1,16 +1,15 @@
 ### Hi there 👋
+### This is Haowen Gao!
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hwgao1101)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:haowengao1101@gmail.com)
 
-<!--
-**hwgao1101/hwgao1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My research direction is sonar SLAM and three-dimensional reconstruction based on underwater robots.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### - 🔭 Welcome to my Github page! I am Haowen Gao.
+#### 😄 I am  currently finishing my Master degree at the Harbin Institute of Technology, Shenzhen!
+#### 🌱  My research direction is sonar SLAM and three-dimensional reconstruction based on underwater robots.
+#### 👯 I am very interested in programming, especially in robot perception.
+#### 🤔 I did simulations of underwater robots, SLAM algorithms, 3D reconstruction algorithms, and UUV experiments!
+
+
