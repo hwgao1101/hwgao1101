@@ -3,6 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hwgao1101)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:haowengao1101@gmail.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/hwgao1101/github-readme-stats)
 
 #### - 🔭 Welcome to my Github page! I am Haowen Gao.
 #### 😄 I am  currently finishing my Master degree at the Harbin Institute of Technology, Shenzhen!
